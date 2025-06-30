@@ -21,3 +21,19 @@ This repository features dashboards for monitoring industrial tightening process
    ```bash
    # Clone the repository
    git clone https://github.com/noussayba-azouz/Smart-Skrewing-Dashboard.git
+2. Navigate to the project directory:
+   ```bash
+   # Change to the project directory
+   cd Smart-Skrewing-Dashboard
+# Skills
+Data anonymization, dashboard design, statistical analysis.
+# Contribute
+- **Fork, enhance, or suggest improvements.**
+- **Open an issue or PR!**
+# Licence
+MIT License
+# Contact
+azouz.noussayba@gmail.com
+
+# Last Updated
+12:19 PM CET, Monday, June 30, 2025
