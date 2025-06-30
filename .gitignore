@@ -1,15 +1,20 @@
 # Ignore local configuration files
 .env
 .config
+.pypirc
 
 # Ignore temporary files
 *.tmp
 *.bak
 
 # Ignore Python build artifacts
-__pycache__
+__pycache__/
 *.pyc
 *.pyo
+
+# Ignore Python virtual environments
+venv/
+env/
 
 # Ignore logs
 *.log
@@ -18,6 +23,6 @@ __pycache__
 .vscode/
 .idea/
 
-# Ignore large or sensitive files (if applicable)
-original_data.csv
-sensitive_data/
+# Ignore local or temporary Power BI files
+*.pbix~
+drafts/
