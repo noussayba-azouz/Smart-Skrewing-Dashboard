@@ -1,0 +1,23 @@
+# Ignore local configuration files
+.env
+.config
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Python build artifacts
+__pycache__
+*.pyc
+*.pyo
+
+# Ignore logs
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore large or sensitive files (if applicable)
+original_data.csv
+sensitive_data/
